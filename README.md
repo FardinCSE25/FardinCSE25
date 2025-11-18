@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/s9Z6qbK9/Screenshot-From-2025-11-19-01-26-24.png" 
+  <img src="https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=3840&fit=max" 
        alt="banner"
        style="width:100%; max-width:100%; display:block;" />
 </p>
