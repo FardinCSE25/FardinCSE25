@@ -1,6 +1,9 @@
-<a href="">
-    <img align="center" alt="Coding" width="100%" src="https://i.ibb.co.com/s9Z6qbK9/Screenshot-From-2025-11-19-01-26-24.png">
-</a>
+<p align="center">
+  <img src="https://i.ibb.co.com/s9Z6qbK9/Screenshot-From-2025-11-19-01-26-24.png" 
+       alt="banner"
+       style="width:100%; max-width:100%; display:block;" />
+</p>
+
 
 
 <h1 align="center">Hello , This is Fardin Ahmed, Frontend passionate MERN stack developer</h1>
