@@ -44,8 +44,8 @@ Currently, I’m enhancing my skills with *Next.js, Prisma, GraphQL, and DevOps*
 <!-- 📌
 ### 📊  -->
 <h3 align="left">📌 GitHub Stats:</h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eshrak20&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/></p>  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshrak20&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"/></p>  
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=FardinCSE25&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/></p>  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FardinCSE25&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"/></p>  
 
 
 
