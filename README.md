@@ -1,5 +1,5 @@
 <a href="">
-    <img align="center" alt="Coding" width="100%" height="100%" src="https://i.ibb.co.com/s9Z6qbK9/Screenshot-From-2025-11-19-01-26-24.png">
+    <img align="center" alt="Coding" width="100%" src="https://i.ibb.co.com/s9Z6qbK9/Screenshot-From-2025-11-19-01-26-24.png">
 </a>
 
 
