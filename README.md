@@ -1,22 +1,12 @@
-<a href="https://eshrakg.netlify.app/">
-    <img align="center" alt="Coding" width="100%" height="400" src="https://i.ibb.co.com/YFPBmKLD/Eshrak-G-2.gif">
+<a href="">
+    <img align="center" alt="Coding" width="100%" height="400" src="https://i.ibb.co.com/q3qbL4jR/nano-banana-2025-11-18-T19-11-47.png">
 </a>
 
 
-<h1 align="center">Hi 👋, I'm Eshràk G</h1>
-<h3 align="center">A Full-Stack Developer & Computer Systems Enthusiast from Bangladesh</h3>
+<h1 align="center">Hello , This is Fardin Ahmed, Frontend passionate MERN stack developer</h1>
 
 ### 👨‍🎓 About Me
-I’m a Full-Stack JavaScript Developer specializing in the *MERN stack*, building scalable web applications with *Express.js, PostgreSQL, MongoDB*, and creating responsive UIs using *React, Redux, and Tailwind CSS*.  
-
-Beyond software, I’m deeply fascinated by *how computers work at a low level*. I explore *hardware architecture, embedded systems, and robotics*, working with *motion sensors, light/fire/water sensors, obstacle detection, and microcontrollers*. I also have hands-on knowledge of *Linux internals, kernel concepts, memory management (RAM/ROM, buffers), CPU cores and threads, I/O operations, and peripheral communication*.  
-
-<!-- On the networking side, I understand *IP addressing, MAC addresses, routing, server configuration, and basic network protocols*, giving me a holistic view of how software, hardware, and networks interact to create robust systems.
- 
-
-Currently, I’m enhancing my skills with *Next.js, Prisma, GraphQL, and DevOps*, merging my love for backend systems with practical applications, while continuously exploring the intersection of *software and computer hardware*.   -->
- 
-
+I’m a React Developer specializing in the *MERN stack*, creating responsive UIs using *React, DaisyUI and Tailwind CSS*, building real time web applications with *Express.js, MongoDB*.   
 
 
 
@@ -33,7 +23,7 @@ Currently, I’m enhancing my skills with *Next.js, Prisma, GraphQL, and DevOps*
 ### 🌐 Connect with Me  
 <p align="left">
 <a href="https://x.com/FardinAhmed203" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://www.linkedin.com/in/fardin-ahmed-56ab7b370/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/fardinahmed14/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.facebook.com/fardin.ahmed.493619" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://www.instagram.com/fardin_14_/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.youtube.com/@Nafiz0809" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube"/></a>
@@ -51,5 +41,3 @@ Currently, I’m enhancing my skills with *Next.js, Prisma, GraphQL, and DevOps*
 
 
 ---
-
-<h3 align="center"> 🤙🏼 WhatsApp: 01829076247</h3>
