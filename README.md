@@ -36,17 +36,3 @@ I’m a **React Developer** specializing in the **MERN stack**, creating respons
 </p>
 
 ---
-
-### 🏆 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FardinCSE25&theme=onedark&no-frame=true" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/FardinCSE25?template=classic&languages=1&languages.limit=6&languages.colors=github&languages.threshold=0%25" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FardinCSE25&theme=dark" alt="GitHub Streak"/>
-</p>
