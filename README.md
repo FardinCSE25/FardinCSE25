@@ -36,16 +36,12 @@ I’m a React Developer specializing in the *MERN stack*, creating responsive UI
 <!-- 📌
 ### 📊  -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=FardinCSE25&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=FardinCSE25&theme=tokyonight&hide_border=true" 
-    height="180"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=FardinCSE25&theme=onedark&no-frame=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FardinCSE25&theme=react-dark" />
+</p>
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinCSE25&layout=compact&theme=tokyonight&hide_border=true" 
