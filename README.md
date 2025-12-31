@@ -28,7 +28,6 @@ I’m a React Developer specializing in the *MERN stack*, creating responsive UI
 <a href="https://x.com/FardinAhmed203" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"/></a>
 <a href="https://www.linkedin.com/in/fardinahmed14/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.facebook.com/fardin.ahmed.493619" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://www.instagram.com/fardin_14_/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.youtube.com/@Nafiz0809" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
