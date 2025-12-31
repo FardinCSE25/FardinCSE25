@@ -33,8 +33,6 @@ I’m a React Developer specializing in the *MERN stack*, creating responsive UI
 
 ---
 
-<!-- 📌
-### 📊  -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FardinCSE25&theme=onedark&no-frame=true" />
 </p>
