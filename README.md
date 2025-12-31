@@ -33,7 +33,7 @@ I’m a React Developer specializing in the *MERN stack*, creating responsive UI
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FardinCSE25)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FardinCSE25" alt="GitHub Streak" /></a>
 
 <p align="center">
   <img src="https://metrics.lecoq.io/FardinCSE25?template=classic&streak=1&streak.duration=full-year" />
