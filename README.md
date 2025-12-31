@@ -40,14 +40,13 @@ I’m a React Developer specializing in the *MERN stack*, creating responsive UI
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FardinCSE25&theme=react-dark" />
+  <img src="https://metrics.lecoq.io/FardinCSE25?template=classic&languages=1&languages.limit=6&languages.colors=github&languages.threshold=0%25" />
 </p>
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinCSE25&layout=compact&theme=tokyonight&hide_border=true" 
-    height="160"
-  />
+  <img src="https://metrics.lecoq.io/FardinCSE25?template=classic&streak=1&streak.duration=full-year" />
 </p>
+
 
 
 
