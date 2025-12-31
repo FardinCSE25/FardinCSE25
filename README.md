@@ -34,8 +34,10 @@ I’m a React Developer specializing in the *MERN stack*, creating responsive UI
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FardinCSE25" alt="GitHub Streak" />
-  </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=FardinCSE25&theme=onedark" alt="GitHub Trophies"/>
+  <img src="https://streak-stats.demolab.com?user=FardinCSE25&theme=dark" alt="GitHub Streak"/>
+</p>
+
 
 
 
