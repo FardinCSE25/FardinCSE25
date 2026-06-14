@@ -32,7 +32,6 @@ I’m a **React Developer** specializing in the **MERN stack**, creating respons
 <a href="https://x.com/FardinAhmed203" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"/></a>
 <a href="https://www.linkedin.com/in/fardinahmed14/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.facebook.com/fardin.ahmed.493619" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://www.youtube.com/@Nafiz0809" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
 ---
