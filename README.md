@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍🎓 About Me
-I’m a **React Developer** specializing in the **MERN stack**, creating responsive UIs using **React, DaisyUI, and Tailwind CSS**, and building real-time web applications with **Express.js and MongoDB**.
+I’m a **Frontend Developer** specializing in the **MERN stack**, creating responsive UIs using **React, DaisyUI, and Tailwind CSS**, and building real-time web applications with **Express.js and MongoDB**.
 
 ---
 
